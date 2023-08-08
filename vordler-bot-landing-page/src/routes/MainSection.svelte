@@ -3,13 +3,13 @@
 </script>
 
 <div class="bg-violet-800">
-  <div class="min-h-screen px-10 pb-10 pt-52">
-    <div class="grid grid-cols-2">
+  <div class="min-h-screen px-4 pb-10 pt-52 lg:px-10">
+    <div class="grid-cols-2 lg:grid">
       <h2 class="3xl:text-8xl text-5xl font-normal text-white 2xl:text-7xl">
         Integrate AI as your moderator or chat bot
       </h2>
-      <div class="3xl:max-w-3xl 3xl:mt-6 mt-2 2xl:mt-4">
-        <h3 class="3xl:text-3xl text-2xl font-normal text-white">
+      <div class="3xl:max-w-3xl 3xl:mt-6 mt-5 lg:mt-2 2xl:mt-4">
+        <h3 class="3xl:text-3xl text-xl font-normal text-white lg:text-2xl">
           You can use a customized GPT AI to moderate your Twitch chat however
           you want to, and integrate it into your chat with custom chat
           commands.

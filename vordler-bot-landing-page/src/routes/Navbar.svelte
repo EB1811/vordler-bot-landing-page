@@ -27,23 +27,35 @@
   class:bg-violet-800={!navbar_color}
   class:bg-black={navbar_color}
 >
-  <header class="relative px-10 py-5 transition-all duration-500">
+  <header class="relative px-4 py-5 transition-all duration-500 lg:px-10">
     <div class="mx-auto">
       <div class="flex flex-row items-center">
-        <div class="flex h-full w-1/2 flex-col justify-center md:text-left">
-          <h1
-            class="text-2xl font-bold transition-colors duration-300"
+        <div class="flex items-center">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="currentColor"
+            stroke-width="1.5"
+            stroke="currentColor"
+            class="h-5 w-5 transition-all duration-500"
+            viewBox="0 0 512 512"
             class:text-white={!navbar_color}
-            class:text-violet-600={navbar_color}
+            class:text-violet-800={navbar_color}
           >
-            VordlerBot <span class="text-xs italic">open alpha</span>
-          </h1>
+            <path
+              d="M284.3 11.7c-15.6-15.6-40.9-15.6-56.6 0l-216 216c-15.6 15.6-15.6 40.9 0 56.6l216 216c15.6 15.6 40.9 15.6 56.6 0l216-216c15.6-15.6 15.6-40.9 0-56.6l-216-216z"
+            />
+          </svg>
+          <span class="ml-1 text-lg font-bold text-gray-50 lg:text-xl">
+            VordlerBot
+            <span class="hidden text-xs italic lg:inline-block">Open Alpha</span
+            >
+          </span>
         </div>
 
         <div
-          class="justify-right flex h-full w-1/2 flex-row items-center justify-end"
+          class="ml-auto flex h-full w-1/2 flex-row items-center justify-end"
         >
-          <div class="mx-3">
+          <div class="mx-3 hidden lg:block">
             <h2
               class="cursor-pointer text-lg font-normal text-white underline-offset-4 transition-all duration-100 hover:underline"
             >
@@ -51,7 +63,7 @@
             </h2>
           </div>
 
-          <div class="mx-3">
+          <div class="mx-3 hidden lg:block">
             <h2
               class="cursor-pointer text-lg font-normal text-white underline-offset-4 transition-all duration-100 hover:underline"
             >
