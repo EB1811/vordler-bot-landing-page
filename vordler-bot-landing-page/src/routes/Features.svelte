@@ -19,9 +19,10 @@
         >
           <h3 class="text-left text-2xl text-white">Moderation</h3>
           <p class="mt-4 leading-5 text-white lg:mt-0 lg:text-lg">
-            VordlerBot lets ChatGPT decide if messages are appropriate or not,
-            and delete them for you. <br /><b>Customize: </b>Set a custom prompt
-            for ChatGPT to use, so you can have your own moderation style.
+            VordlerBot lets ChatGPT decide if Twitch messages are appropriate or
+            not, and delete them for you. <br /><b>Customize: </b>Set a custom
+            prompt for ChatGPT to use, so you can have your own moderation
+            style.
           </p>
         </div>
         <div
