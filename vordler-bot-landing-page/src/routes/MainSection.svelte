@@ -27,6 +27,6 @@
         </div>
       </div>
     </div>
-    <!-- <img src={imgUrl} alt="" class="mt-20 h-5/6 object-cover" /> -->
+    <img src="abstract3.jpg" alt="" class="mt-20 h-5/6 object-cover" />
   </div>
 </div>
