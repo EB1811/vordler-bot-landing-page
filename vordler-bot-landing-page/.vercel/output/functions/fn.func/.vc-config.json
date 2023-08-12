@@ -1,0 +1,6 @@
+{
+	"runtime": "nodejs18.x",
+	"handler": "..\\..\\..\\..\\..\\..\\..\\Users\\Emmanuils\\Documents\\WEBSITES\\vordler-bot-landing-page\\vordler-bot-landing-page\\.svelte-kit\\vercel-tmp\\index.js",
+	"launcherType": "Nodejs",
+	"experimentalResponseStreaming": true
+}
