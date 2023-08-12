@@ -1,5 +1,5 @@
 <script>
-  const imgUrl = new URL('../../abstract3.jpg', import.meta.url).href
+  // const imgUrl = new URL('../../abstract3.jpg', import.meta.url).href
 </script>
 
 <div class="bg-violet-800">
@@ -27,6 +27,6 @@
         </div>
       </div>
     </div>
-    <img src={imgUrl} alt="" class="mt-20 h-5/6 object-cover" />
+    <!-- <img src={imgUrl} alt="" class="mt-20 h-5/6 object-cover" /> -->
   </div>
 </div>
