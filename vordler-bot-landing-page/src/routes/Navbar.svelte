@@ -75,7 +75,9 @@
             <h2
               class=" cursor-pointer border border-white px-3 text-lg font-normal text-white transition-all duration-100 hover:bg-white hover:text-violet-800"
             >
-              Login
+              <a href="https://test-vordler-bot.web.app/" target="_blank">
+                Login</a
+              >
             </h2>
           </div>
         </div>
