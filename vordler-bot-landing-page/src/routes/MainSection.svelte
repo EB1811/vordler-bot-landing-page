@@ -17,9 +17,7 @@
           <h2
             class=" cursor-pointer border border-white px-3 text-lg font-normal text-white transition-all duration-100 hover:bg-white hover:text-violet-800"
           >
-            <a href="https://test-vordler-bot.web.app/" target="_blank">
-              Dashboard</a
-            >
+            <a href="https://test-vordler-bot.web.app/">Dashboard</a>
           </h2>
           <h2
             class=" ml-3 cursor-pointer px-3 text-lg font-normal text-white underline underline-offset-8 transition-all duration-100 hover:decoration-gray-500"
