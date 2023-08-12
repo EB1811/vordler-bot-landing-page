@@ -10,9 +10,8 @@
       </h2>
       <div class="3xl:max-w-3xl 3xl:mt-6 mt-5 lg:mt-2 2xl:mt-4">
         <h3 class="3xl:text-3xl text-xl font-normal text-white lg:text-2xl">
-          You can use a customized GPT AI to moderate your Twitch chat however
-          you want to, and integrate it into your chat with custom chat
-          commands.
+          You can use a customized GPT AI to integrate it into your chat with
+          chat commands and moderate your Twitch chat however you want to.
         </h3>
         <div class="mt-6 flex">
           <h2

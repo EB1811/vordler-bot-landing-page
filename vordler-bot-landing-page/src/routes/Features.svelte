@@ -17,23 +17,23 @@
         <div
           class="my-14 grid-cols-2 border-t border-gray-500 py-6 text-left lg:grid"
         >
-          <h3 class="text-left text-2xl text-white">Moderation</h3>
-          <p class="mt-4 leading-5 text-white lg:mt-0 lg:text-lg">
-            VordlerBot lets ChatGPT decide if Twitch messages are appropriate or
-            not, and delete them for you. <br /><b>Customize: </b>Set a custom
-            prompt for ChatGPT to use, so you can have your own moderation
-            style.
-          </p>
-        </div>
-        <div
-          class="my-14 grid-cols-2 border-t border-gray-500 py-6 text-left lg:grid"
-        >
           <h3 class="text-left text-2xl text-white">Commands</h3>
           <p class="mt-4 leading-5 text-white lg:mt-0 lg:text-lg">
             Integrate ChatGPT into your chat, and enhance your viewers
             experience. <br /><b>Customize: </b>On top of our default commands,
             VordlerBot lets you create custom ones that uses a prompt of your
             choice.
+          </p>
+        </div>
+        <div
+          class="my-14 grid-cols-2 border-t border-gray-500 py-6 text-left lg:grid"
+        >
+          <h3 class="text-left text-2xl text-white">Moderation</h3>
+          <p class="mt-4 leading-5 text-white lg:mt-0 lg:text-lg">
+            VordlerBot lets ChatGPT decide if Twitch messages are appropriate or
+            not, and delete them for you. <br /><b>Customize: </b>Set a custom
+            prompt for ChatGPT to use, so you can have your own moderation
+            style.
           </p>
         </div>
         <div
