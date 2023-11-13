@@ -24,7 +24,7 @@
               style.
             </p>
             <h4 class="mt-5 text-lg leading-5 text-white">
-              <b>Alpha:</b> 100 free moderation and commands messages.
+              <b>Alpha:</b> 1000 free moderation and commands messages.
             </h4>
             <!-- <h4 class="mt-5 text-lg leading-5 text-white">
               <b>100</b> free moderation and commands messages / month.
@@ -70,7 +70,7 @@
               custom commands with a custom prompt.
             </p>
             <h4 class="mt-5 text-lg leading-5 text-white">
-              <b>Alpha:</b> 100 free moderation and commands messages.
+              <b>Alpha:</b> 1000 free moderation and commands messages.
             </h4>
             <!-- <h4 class="mt-5 text-lg leading-5 text-white">
               <b>100</b> free moderation and commands messages / month.
