@@ -19,7 +19,7 @@
         >
           <h3 class="text-left text-2xl text-white">Commands</h3>
           <p class="mt-4 leading-5 text-white lg:mt-0 lg:text-lg">
-            Integrate ChatGPT into your chat, and enhance your viewers
+            Integrate ChatGPT into your Twitch chat, and enhance your viewers
             experience. <br /><b>Customize: </b>On top of our default commands,
             VordlerBot lets you create custom ones that uses a prompt of your
             choice.
