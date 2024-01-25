@@ -21,7 +21,7 @@
           ></a
         >
         <a
-          href="https://discord.gg/QWp9HQnQ"
+          href="https://discord.gg/A562Rz5j"
           target="_blank"
           rel="noopener noreferrer"
         >
